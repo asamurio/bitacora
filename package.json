@@ -7,6 +7,8 @@
     "dev": "concurrently \"vite\" \"node server.js\"",
     "server": "node server.js",
     "build": "vite build",
+    "prestart": "npm run build",
+    "postinstall": "npm run build",
     "start": "node start.js",
     "lint": "oxlint"
   },
