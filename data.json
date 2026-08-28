@@ -43,11 +43,6 @@
       "id": "otro",
       "label": "Otro",
       "color": "#8892a0"
-    },
-    {
-      "id": "quality",
-      "label": "Quality",
-      "color": "#4fb3b3"
     }
   ]
 }
