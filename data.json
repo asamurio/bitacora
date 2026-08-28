@@ -1,0 +1,53 @@
+{
+  "projects": [
+    "club",
+    "maxi",
+    "quality"
+  ],
+  "entries": {
+    "club": [
+      {
+        "id": "mtcznd4o3sjnbn",
+        "person": "JONI",
+        "text": "modifique uno de los monitores de club en datadog",
+        "tag": "api",
+        "status": "resuelto",
+        "date": "2026-08-28",
+        "createdAt": 1787923768632
+      }
+    ],
+    "arc": []
+  },
+  "tags": [
+    {
+      "id": "api",
+      "label": "API",
+      "color": "#5b9dee"
+    },
+    {
+      "id": "front",
+      "label": "Front",
+      "color": "#e0a458"
+    },
+    {
+      "id": "back",
+      "label": "Back",
+      "color": "#6fbf8b"
+    },
+    {
+      "id": "infra",
+      "label": "Infra",
+      "color": "#b586e0"
+    },
+    {
+      "id": "otro",
+      "label": "Otro",
+      "color": "#8892a0"
+    },
+    {
+      "id": "quality",
+      "label": "Quality",
+      "color": "#4fb3b3"
+    }
+  ]
+}

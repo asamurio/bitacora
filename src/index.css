@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: #12151a;
+  color: #e6e9ef;
+  -webkit-font-smoothing: antialiased;
+}
